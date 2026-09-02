@@ -47,10 +47,12 @@ Mit diesem Operator kann eine weitere Bedingung und eine Aktion hinzugefügt wer
 
 Anwendungsbeispiel:
 
-  ![[codeimage-snippet_31 (1) 1.png]]
+<img width="463" height="350" alt="codeimage-snippet_31 (1)" src="https://github.com/user-attachments/assets/dd79b49d-c8c6-4fc1-b95c-3d67ed736c31" />
 
 Beispiel für eine Alternative:
-![[codeimage-snippet_31.png]]
+
+<img width="463" height="372" alt="codeimage-snippet_31" src="https://github.com/user-attachments/assets/19c053cc-911d-4dfc-be2a-24fc2cfd187d" />
+
   
 3. Else-Operator
 
@@ -63,11 +65,13 @@ Dies ist ein Operator, der in anderen Operatoren verwendet werden kann. Seine Fu
 
 Anwendungsbeispiel:
 
-![[codeimage-snippet_31 (3).png]]
+<img width="591" height="328" alt="codeimage-snippet_31 (3)" src="https://github.com/user-attachments/assets/cf30f307-790c-4e92-8e3a-70ae23731ba9" />
+
 
 Beispiel für eine alternative Variante:
 
-![[codeimage-snippet_31 (2).png]]
+<img width="463" height="328" alt="codeimage-snippet_31 (2)" src="https://github.com/user-attachments/assets/b8e9a6e7-31b5-42ed-a1b2-b24fe773eec2" />
+
 ## Reflexion
 
 Alles war super, ich habe mir kurz wieder ins Gedächtnis gerufen, wie man Kommentare schreibt (mit """), und herausgefunden, was „Match“ und „Walrus“ sind.
