@@ -45,7 +45,8 @@ Dieses System wurde  in Python 2.6 eingeführt. Diese Version löste viele Probl
 
 Anwendungsbeispiel:
 
-![[codeimage-snippet_25.png|492]]
+<img width="1108" height="432" alt="codeimage-snippet_25" src="https://github.com/user-attachments/assets/59a744ab-3975-4b07-bb63-0268c3e7889b" />
+
 
 Output: 'The woodchuck is in the lake.'
 
@@ -54,7 +55,9 @@ Output: 'The woodchuck is in the lake.'
 Dies ist das neueste System, das   mit Python 3.6 eingeführt wurde.
 
 Anwendungsbeispiel:
-![[codeimage-snippet_25 (1).png|482]]
+
+<img width="1108" height="386" alt="codeimage-snippet_25 (1)" src="https://github.com/user-attachments/assets/77ea9171-98e2-4458-ab51-6d622b200131" />
+
 
 Output: 'The woodchuck is in the lake.'
 
@@ -70,7 +73,9 @@ x [ start : end : step ]
 An die Stellen „start“, „end“ und „step“ werden Zahlen eingesetzt: „start“ gibt an, ab welchem Zeichen der Ausschnitt aus der Zeichenkette entnommen wird, „end“ gibt an, wo der Ausschnitt endet, und „step“ gibt an, in welchen Schritten die Zeichen entnommen werden.
 
 Anwendungsbeispiel:
-![[codeimage-snippet_25 (2).png|489]]
+
+<img width="878" height="342" alt="codeimage-snippet_25 (2)" src="https://github.com/user-attachments/assets/bed6472c-15af-4fdb-9afd-fcc842e825e2" />
+
 Output: 'ehknqt'
 
 ## Reflexion
