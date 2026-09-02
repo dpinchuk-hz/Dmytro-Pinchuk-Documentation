@@ -19,8 +19,9 @@ Anmerkungen:
 	- Feedback-Seite
 		- Bewertungsformular
 
-| Problemen:              | Der noch nicht fertiggestellte Teil betrifft das Anfordern und Senden von Feedback, da die JavaScript-Komponente fehlt                  |
+| 			              | 																														             	|
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Problemen:              | Der noch nicht fertiggestellte Teil betrifft das Anfordern und Senden von Feedback, da die JavaScript-Komponente fehlt                  |
 | Gewonnene Erkenntnisse: | Ich habe gelernt, Dokumentation zu verfassen, und mich im Erstellen von Websites sowie in der Verwendung des Bootstrap-Frameworks geübt |
 | Verwandte Notizen       | [[Erstellung von 3 HTML-Dateien und 1 CSS-Datei]]]                                                                                      |
 |                         | [[Integration von Bootstrap]]                                                                                                           |
