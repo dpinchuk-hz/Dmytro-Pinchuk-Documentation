@@ -8,7 +8,7 @@ Hier wird beschrieben, auf welcher Seite ich welche Funktionen verwendet und wie
 
 Der Aufbau geht in drei nahezu identische Ebenen über. Zudem gibt es einen Mechanismus zur Garnzuführung in den Fertigungsbereich; eine Anzeige signalisiert die aktuelle Seite des Nutzers mittels CSS-Klassen. Die Navigation wurde mithilfe einer ungeordneten Liste (`<ul>` und `<li>`) umgesetzt.
 
-![[Pasted image 20260824163358.png]]
+<img width="1005" height="574" alt="codeimage-snippet_11 (7)" src="https://github.com/user-attachments/assets/16537733-8e46-4519-97c5-1f096a08553e" />
 
 3. Home-Seite
 
@@ -16,7 +16,8 @@ Der Aufbau geht in drei nahezu identische Ebenen über. Zudem gibt es einen Mech
 
 Für die Startseite wurde ein schlichtes Banner erstellt: Es enthält die Design-Schriftart „BBH_Barte“ (eingebunden via CSS), ein zum Thema der Website passendes Foto sowie einen Button, der den Nutzer zur Menüseite (`food.html`) führt. Dank dieses Banners können Besucher das Thema der Website sofort erfassen. Darunter befinden sich zwei Fotos, die Informationen über das Unternehmen vermitteln sollen.
 
-![[Pasted image 20260824163608.png]]
+<img width="1341" height="507" alt="codeimage-snippet_12 (1)" src="https://github.com/user-attachments/assets/e33039b8-314e-4bb8-ab49-47c04d41894e" />
+
 
 4. Menu-Seite
 
@@ -30,11 +31,13 @@ Der Warenkorb ist ein Bereich, der noch überarbeitet werden muss; die visuelle 
 
 Das Seitenpanel lässt sich auf der linken Seite ausklappen, ist über eine ID mit der Schaltfläche verknüpft, und die Ausklappfunktion selbst wurde mithilfe eines Bootstrap-JavaScript-Skripts erstellt.
 
-![[Pasted image 20260824163548.png]]
+<img width="2050" height="1686" alt="codeimage-snippet_11 (1)" src="https://github.com/user-attachments/assets/15510645-9598-43ca-b0b4-f1b0287b6928" />
+
 
 SVG (Scalable Vector Graphics) ermöglicht es, ein Symbol direkt auf der Website zu erstellen, dessen Qualität sich um ein Vielfaches verbessert, unabhängig davon, wie stark das Bild vergrössert oder verkleinert wird.
 
-![[Pasted image 20260824163538.png]]
+<img width="1120" height="395" alt="codeimage-snippet_12" src="https://github.com/user-attachments/assets/ab96bf25-de03-4f3a-810a-7c50c57ff5f8" />
+
 
 5. Feedback-Seite
 
@@ -42,4 +45,4 @@ SVG (Scalable Vector Graphics) ermöglicht es, ein Symbol direkt auf der Website
 
 Das Feedback wurde mithilfe mehrerer Label- und Input-Elemente verfasst; das System überprüft sofort selbst, ob die E-Mail-Adresse korrekt eingegeben wurde. Der vom Benutzer eingegebene Text verfügt über eine eigene ID und ist damit bereit, an JavaScript übergeben zu werden, um in der Datenbank gespeichert zu werden. Mithilfe von Klassen habe ich das Feedback-Fenster so gestaltet, dass es zentriert ist und einen eigenen „Rahmen“ sowie ansprechende Abstände zwischen den Code-Elementen aufweist.
 
-![[Pasted image 20260824163530.png]]
+<img width="1073" height="529" alt="codeimage-snippet_12 (2)" src="https://github.com/user-attachments/assets/5ff34846-7a8d-431a-9725-129f3c463d69" />
