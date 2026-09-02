@@ -10,17 +10,14 @@ HyperText Markup Language  -  Es ist das Fundament, auf dem jede Website aufba
 
 HTML arbeitet mit sogenannten Tags – Befehlen, die etwa so aussehen: "<…>", wobei ein spezifischer Befehl innerhalb der Klammern steht. Die Struktur der Website sieht folgendermassen aus:
 
-![[Pasted image 20260824162850.png|143]]
+<img width="381" height="350" alt="codeimage-snippet_11 (3)" src="https://github.com/user-attachments/assets/d6c30160-1dbc-43c7-bf5b-bcc4b05926b7" />
 
-![[Pasted image 20260824162935.png]]
 
 3. CSS
 
 Cascading Style Sheets - Dies ist eine Programmiersprache zur Gestaltung von Webseiten. Sie dient zum Schreiben von Selektoren, Eigenschaften und Direktiven, die auf HTML oder XML angewendet werden. Hier ist ein Beispiel für diese Programmiersprache.
 
-![[Pasted image 20260824163011.png|197]]
-
-![[Pasted image 20260824163101.png|339]]
+<img width="362" height="305" alt="codeimage-snippet_11 (4)" src="https://github.com/user-attachments/assets/bb71193b-77c0-4ff7-a413-01ba4e35ea76" />
 
 4. Struktur
 
